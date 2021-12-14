@@ -1,4 +1,4 @@
-class MiniTools < Formula
+class Minitools < Formula
   desc "miniTools"
   homepage "https://minitoolsjs.github.io"
   url "https://github.com/minitoolsjs/minitools.git", branch: "main"
